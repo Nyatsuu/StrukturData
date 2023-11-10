@@ -1,0 +1,2 @@
+# StrukturData
+project strukdat
